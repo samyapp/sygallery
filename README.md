@@ -3,6 +3,8 @@ sygallery
 
 A *very* simple plugin to display image galleries from old nextgen gallery wordpress plugin in the way I want them to... 
 
+Upload sygallery.php to your plugins directory and activate it from within wordpress.
+
 Adds a shortcode to wordpress in the form
 
 [sygallery id=42]
