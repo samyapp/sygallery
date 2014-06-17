@@ -8,7 +8,10 @@ Author: Sam Yapp
 Author URI: http://samyapp.com
 */
 
-//tell wordpress to register the demolistposts shortcode
+
+// usage: [gallery id="3"] in your posts will display a nextgen gallery with the id of 3, as thumbnails, which when clicked show one image
+// per page with prev / next links
+//tell wordpress to register the shortcode
 add_shortcode("sygallery", "sygallery_handler");
 
 function sygallery_handler($incoming) {
