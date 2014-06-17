@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: SY Gallery
-Plugin URI: https://github.com/samyapp/sygallery.git
+Plugin URI: https://github.com/samyapp/sygallery
 Description: Display old nextgen-gallery galleries the way I want to....
 Version: 0.1 BETA
 Author: Sam Yapp
