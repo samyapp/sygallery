@@ -1,7 +1,7 @@
-sygallery - A very simple plugin to display image galleries from old nextgen gallery wordpress plugin in the way I want them to... 
+sygallery
 =========
 
-Very simple basic plugin to display wordpress nextgen gallery plugin galleries how I want them...
+A *very* simple plugin to display image galleries from old nextgen gallery wordpress plugin in the way I want them to... 
 
 Adds a shortcode to wordpress in the form
 
